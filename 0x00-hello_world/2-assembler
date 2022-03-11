@@ -1,2 +1,2 @@
-n.n.cc#!/bin/bash
+:wq#!/bin/bash
 gcc -c 1-main.c -o 1-main.s \n
