@@ -1,2 +1,2 @@
-lelerr#!/bin/bash
+ompiler!/bin/bash
 gcc -c $CFILE /n
