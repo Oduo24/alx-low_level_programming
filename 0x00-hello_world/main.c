@@ -1,12 +1,9 @@
-/*Program description*/
 #include <stdio.h>
 /**
- *First hello world program
- *Always return 0 (success)
+ *main - Entry point
+ *Return: Always 0 (Success)
  */
-int main(void) /*function description*/
+int main(void)
 {
-	printf("Hello World");
-	return (0); /*Return description*/
+	return (0);
 }
-
