@@ -1,2 +1,2 @@
-#ssembler!/bin/bash
-gcc -c $CFILE -o hello.s \n
+#!/bin/bash
+gcc -S $CFILE -o main.s \n
