@@ -1,2 +1,2 @@
-#!/bin/bash
+lelerr#!/bin/bash
 gcc -c $CFILE /n
