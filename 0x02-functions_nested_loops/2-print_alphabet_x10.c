@@ -1,10 +1,10 @@
 #include "main.h"
 /**
- *print_alphabet - outputs alphabets a-z
+ *print_alphabet_x10 - outputs alphabets a-z
  *Return: - Always void (Success)
  *
  */
-void print_alphabet(void)
+void print_alphabet_x10(void)
 {
 int i,j;
 char alphabet[] = "abcdefghijklmnopqrstuvwxyz";
@@ -17,3 +17,4 @@ char alphabet[] = "abcdefghijklmnopqrstuvwxyz";
 	}
 	_putchar('\n');
 }
+
