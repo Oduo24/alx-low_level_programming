@@ -1,4 +1,4 @@
-nclude <stdio.h>
+include <stdio.h>
 /**
  *main - function gives the sum of all multiples of 3 and 5 less than 1024 not included
  *Return:  if successful
