@@ -13,6 +13,6 @@ for (i = 0; i < 8; i++)
 	_putchar (str[i]);
 }
 _putchar('\n');
-Return(0);
+return (0);
 }
 
