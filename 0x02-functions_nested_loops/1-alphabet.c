@@ -1,9 +1,8 @@
 #include "main.h"
 /**
- *main - entry point
- *Return: - Always 0 (Success)
+ *print_alphabet - outputs alphabets a-z
+ *Return: - Always void (Success)
  *
-*int main(void)
 *{
 *	print_alphabet();
 *	return (0);
@@ -18,6 +17,5 @@ void print_alphabet(void)
 			_putchar(alphabet[i]);
 		}
 	_putchar('\n');
-	return;
 }
 
