@@ -1,9 +1,9 @@
-nclude "main.h"
+#include "main.h"
 /**
  *print_alphabet - outputs alphabets a-z
  *Return: - Always void (Success)
  *
- **/
+ */
 void print_alphabet(void)
 {
 int i;
